@@ -1,0 +1,13 @@
+name: vit_bart_caption
+channels:
+  - defaults
+dependencies:
+- python>=3.8
+- pip>=21
+- scikit-image=0.18.1
+- pip:
+   - torch~=2.0.0
+   - transformers~=4.10.2
+   - ftfy
+   - regex
+   - tqdm

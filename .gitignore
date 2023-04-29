@@ -1,0 +1,8 @@
+sandbox.py
+data/coco/
+lambdalabs/
+checkpoints0/
+checkpoints1/
+checkpoints/
+lambdalabs.zip
+__pycache__
