@@ -1,8 +1,6 @@
-sandbox.py
 data/coco/
-lambdalabs/
-checkpoints0/
-checkpoints1/
 checkpoints/
-lambdalabs.zip
-__pycache__
+images/
+__pycache__/
+tensorboard/
+messing_with_jsons.py

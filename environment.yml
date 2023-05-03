@@ -5,9 +5,12 @@ dependencies:
 - python>=3.8
 - pip>=21
 - scikit-image=0.18.1
+- tensorboard=2.10.0
 - pip:
    - torch~=2.0.0
    - transformers~=4.10.2
    - ftfy
    - regex
    - tqdm
+   - evaluate
+   - rouge_score
