@@ -1,6 +1,6 @@
 ## Getting Started
 
-Heavily inspired by rmokady/CLIP_prefix_caption
+Heavily inspired by [rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption)
 
 ### Creating the model
 
